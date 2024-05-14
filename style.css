@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono&display=swap&#39; );
 
 :root{
@@ -33,18 +34,6 @@ body{
     text-align: center;
     margin-top: 80px;
 }
-salve o arquivo e verifique as alterações clicando no link do vercel
-
-Adicionar comentário para a turma...
-
-
-Aviso: "Atividade 3 para a semana 06/05 a 10/05…"
-ALEXANDRA TEREZINHA KAPUSINSKI
-Criado em: 7 de mai.7 de mai.
-Atividade 3 para a semana 06/05 a 10/05 - continuar com arquivo style.css
-
-Continuando no style.css vamos estilizar os campos para as senhas
-
 .conteudo-senha{
     margin-top: 80px;
     background: var(--fundo-senha);
